@@ -23,24 +23,32 @@ Ensure you have Python installed. Then, install the required packages with:
 
 ```bash
 pip install -r requirements.txt
-Usage
-GUI Script
+
+### Usage
+
+### GUI Script
+
 To launch the GUI:
 
 ```bash
 Copy code
 python gui_script.py --gui
-CLI Script
+
+### CLI Script
+
 To use the CLI script:
 
 ```bash
 Copy code
 python cli_script.py <command> <substitution_key> [--preview] [--custom-decoding <command>]
-Arguments
+
+### Arguments
+
 <command>: The shell command to encode.
 <substitution_key>: The substitution cipher key (0-61).
 
-###Options
+### Options
+
 --preview: Preview the decoding commands without executing them.
 --custom-decoding <command>: Custom decoding command. Overrides default decoding commands.
 
