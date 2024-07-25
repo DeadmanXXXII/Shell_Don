@@ -24,7 +24,7 @@ Ensure you have Python installed. Then, install the required packages with:
 ```bash
 pip install -r requirements.txt
 
-It should contain tk and another.
+It should contain tk and another that you may need to install using python install instead of pip depending.
 
 ### Usage
 
