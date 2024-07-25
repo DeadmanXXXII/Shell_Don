@@ -27,28 +27,32 @@ Usage
 GUI Script
 To launch the GUI:
 
-bash
+```bash
 Copy code
 python gui_script.py --gui
 CLI Script
 To use the CLI script:
 
-bash
+```bash
 Copy code
 python cli_script.py <command> <substitution_key> [--preview] [--custom-decoding <command>]
 Arguments
 <command>: The shell command to encode.
 <substitution_key>: The substitution cipher key (0-61).
-Options
+
+###Options
 --preview: Preview the decoding commands without executing them.
 --custom-decoding <command>: Custom decoding command. Overrides default decoding commands.
-Examples
-Encode a command with the GUI
+
+## Examples
+
+###Encode a command with the GUI
 Run the script with the --gui flag.
 Enter your shell command and substitution key.
 Click "Generate" to see the encoded formats and decoding payloads.
-Encode a command with the CLI
-bash
+
+### Encode a command with the CLI
+```bash
 Copy code
 python cli_script.py "ls -la" 3 --preview
 This will encode the command ls -la with a substitution key of 3 and display the decoding commands.
