@@ -90,9 +90,9 @@ Copy code
 
 You can now use these scripts for encoding and decoding shell commands with both a graphical interface and command-line interface.
 
-![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/blob/main/Nethunter-use_OP_Top.png)
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/main/Nethunter-use_OP_Top.png)
 
-![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/blob/main/Nethunter-use_OP_bottom.png)
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Shell_Don/main/Nethunter-use_OP_bottom.png)
 
 
 
