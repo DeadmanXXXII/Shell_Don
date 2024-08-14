@@ -61,7 +61,7 @@ python cli_script.py <command> <substitution_key> [--preview] [--custom-decoding
 
 ## Examples:
 
-###Encode a command with the GUI
+### Encode a command with the GUI:
 Run the script with the --gui flag.
 Enter your shell command and substitution key.
 Click "Generate" to see the encoded formats and decoding payloads.
@@ -79,10 +79,9 @@ This will encode the command ls -la with a substitution key of 3 and display the
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+Acknowledgements:
 Built by DeadmanXXXII.
 
-typescript
 Copy code
 
 ### Note
@@ -91,6 +90,9 @@ Copy code
 
 You can now use these scripts for encoding and decoding shell commands with both a graphical interface and command-line interface.
 
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090101.png)
+
+![Usage](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090101.png)
 
 
 
