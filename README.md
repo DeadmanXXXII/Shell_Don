@@ -23,6 +23,7 @@ Ensure you have Python installed. Then, install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 It should contain tk and another that you may need to install using python install instead of pip depending.
 
@@ -37,6 +38,7 @@ To launch the GUI:
 ```bash
 Copy code
 python gui_script.py --gui
+```
 
 ### CLI Script
 
@@ -45,6 +47,7 @@ To use the CLI script:
 ```bash
 Copy code
 python cli_script.py <command> <substitution_key> [--preview] [--custom-decoding <command>]
+```
 
 ### Arguments:
 
@@ -68,6 +71,7 @@ Click "Generate" to see the encoded formats and decoding payloads.
 ```bash
 Copy code
 python cli_script.py "ls -la" 3 --preview
+```
 
 
 This will encode the command ls -la with a substitution key of 3 and display the decoding commands.
